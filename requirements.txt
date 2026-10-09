@@ -1,0 +1,5 @@
+openai>=1.40
+datasets
+pandas
+pillow
+python-dotenv
