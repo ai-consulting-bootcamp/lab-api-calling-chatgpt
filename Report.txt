@@ -1,0 +1,50 @@
+AI-Powered Product Listing Automation – Project Report
+
+1. How the API Integration Works
+
+In this project, I developed a Python-based automation workflow that uses the OpenAI API to generate e-commerce product listings from product images and metadata.
+
+I started by loading 100 products from the HuggingFace Fashion Product Images dataset and converting the data into a Pandas DataFrame. Since the dataset does not 
+include product prices, I assigned placeholder prices based on product categories.
+
+Next, I created a function to convert product images into Base64 format, allowing them to be transmitted directly to the OpenAI API. I also developed a prompt template 
+that includes product information and instructions for generating a title, description, key features, and SEO keywords in JSON format.
+
+Using GPT-4o-mini, I successfully processed five products in a loop. The generated listings were saved in a JSON file, and I implemented error handling to prevent 
+individual failures from stopping the entire process.
+
+2. Challenges I Faced
+
+One of my initial challenges was adapting the example code to the HuggingFace dataset. The original code expected local image paths, while the dataset provided PIL 
+image objects. I solved this by using BytesIO to convert images directly into Base64 without saving them locally.
+
+Another challenge was the missing product prices, which I addressed by implementing category-based placeholder prices.
+
+I also had to ensure that API responses could be converted into Python dictionaries. Since responses may contain Markdown formatting, I added logic to remove JSON 
+code block markers before parsing.
+
+3. Quality of Generated Listings
+
+The automation successfully generated listings for all five products without errors. Each listing contained the required JSON fields: title, description, features, 
+and keywords.
+
+Overall, the results were well-structured, relevant, and suitable as initial product descriptions. However, I noticed that some descriptions were shorter than the 
+requested 150–200 words. Additionally, certain product characteristics, such as material quality or durability, were mentioned without sufficient evidence from the 
+available data.
+
+This showed me that technically successful API responses do not necessarily guarantee that all content requirements are met.
+
+4. Potential Improvements
+
+As an additional challenge, I implemented API cost tracking and compared an original prompt with a shorter version.
+
+The optimized prompt was 47.77% shorter and reduced API costs by approximately 1.02% in a single-product comparison. This demonstrated that prompt optimization can 
+reduce costs, although image processing accounts for a significant part of the token usage.
+
+For future improvements, I would focus on improving prompt accuracy, validating generated descriptions against the specified requirements, and preventing unsupported 
+product claims.
+
+I would also consider testing image processing settings to reduce token consumption and expanding the workflow to handle larger product batches more efficiently.
+
+Overall, this project helped me understand how to integrate image analysis, prompt engineering, API communication, JSON processing, and cost monitoring into a practical 
+e-commerce automation workflow.
