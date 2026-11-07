@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Men's Casual Checkered Shirt",
+    "description": "Stylish and comfortable men's casual checkered shirt perfect for everyday wear. Features a classic button-down design with short sleeves and a modern fit.",
+    "category": "Men's Clothing",
+    "features": [
+      "Checkered pattern",
+      "Short sleeves"
+    ],
+    "keywords": "men's shirt, casual wear, checkered shirt, button-down"
+  },
+  {
+    "title": "Men's Classic Fit Denim Jeans",
+    "description": "These classic fit denim jeans offer both style and comfort, perfect for everyday wear. Made from high-quality denim, they are durable and versatile, making them a staple in any wardrobe.",
+    "category": "Apparel",
+    "features": [
+      "Classic fit with a straight leg design",
+      "Durable and comfortable high-quality denim material"
+    ],
+    "keywords": "men's jeans, denim pants, classic fit jeans, everyday wear, durable denim"
+  },
+  {
+    "title": "Elegant Silver Women's Wristwatch",
+    "description": "This elegant silver women's wristwatch features a sleek and modern design with a minimalist dial and stainless steel strap. Perfect for both casual and formal occasions.",
+    "category": "Watches",
+    "features": [
+      "Stainless steel strap",
+      "Minimalist design",
+      "Water-resistant",
+      "Durable build"
+    ],
+    "keywords": "silver watch, women's watch, stainless steel, minimalist watch"
+  }
+]
