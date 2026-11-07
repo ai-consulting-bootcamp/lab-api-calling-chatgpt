@@ -1,0 +1,53 @@
+[
+  {
+    "product_id": 15970,
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "listing": {
+      "title": "Turtle Check Men Navy Blue Casual Shirt",
+      "description": "Elevate your casual wardrobe with the Turtle Check Men Navy Blue Shirt. Designed for a relaxed fit, this shirt features a classic checkered pattern in navy blue and white, offering a timeless look. The full-sleeve design with buttoned cuffs and a structured collar adds to its versatility, making it perfect for everyday wear or casual outings. Crafted with attention to detail, it combines style and comfort effortlessly. Whether paired with jeans or chinos, this shirt is a staple piece that enhances your laid-back yet polished style.",
+      "features": [
+        "Navy blue and white check pattern",
+        "Full-sleeve design with buttoned cuffs",
+        "Structured collar for a classic look",
+        "Casual fit suitable for everyday wear",
+        "Button-up front for easy styling"
+      ],
+      "keywords": "men's navy blue shirt, checkered shirt men, casual men's shirt, full sleeve shirt, button-up shirt, men's topwear, casual check shirt, navy blue topwear men, men's casual shirt navy, Turtle Check shirt"
+    },
+    "status": "success"
+  },
+  {
+    "product_id": 39386,
+    "product_name": "Peter England Men Party Blue Jeans",
+    "listing": {
+      "title": "Peter England Men Party Blue Jeans - Stylish Casual Bottomwear",
+      "description": "Elevate your casual wardrobe with the Peter England Men Party Blue Jeans. Designed for comfort and style, these jeans feature a modern fit perfect for casual outings and party wear. The classic blue shade pairs effortlessly with any top, while the subtle fading and whiskering details add a touch of rugged charm. Crafted as a durable and stylish bottomwear choice, these jeans offer a versatile option for everyday wear, ensuring you stay comfortable and trendy throughout the day.",
+      "features": [
+        "Classic blue color with subtle fading",
+        "Modern fit ideal for casual and party occasions",
+        "Detailed whiskering for added style",
+        "Durable stitching and quality craftsmanship",
+        "Versatile bottomwear for multiple casual occasions"
+      ],
+      "keywords": "Peter England jeans, men blue jeans, casual jeans, party jeans, men's bottomwear, blue denim, stylish jeans, modern fit jeans, casual wear, durable jeans, men's fashion jeans, trendy jeans, daily wear jeans, comfortable jeans, denim pants"
+    },
+    "status": "success"
+  },
+  {
+    "product_id": 59263,
+    "product_name": "Titan Women Silver Watch",
+    "listing": {
+      "title": "Titan Women Silver Watch - Elegant Casual Timepiece",
+      "description": "Discover the timeless elegance of the Titan Women Silver Watch, perfect for casual wear. This stylish watch features a sleek silver dial with minimalistic hour markers and delicate silver hands that complement its clean design. The silver metal bracelet adds a sophisticated touch, ensuring durability and comfort for all-day wear. Its round case and understated look make it an ideal accessory to elevate everyday outfits, blending functionality with refined style effortlessly.",
+      "features": [
+        "Sleek silver dial with minimalistic design",
+        "Silver metal bracelet for added durability",
+        "Round watch case for a classic look",
+        "Clear, easy-to-read hour markers and hands",
+        "Ideal accessory for casual and everyday wear"
+      ],
+      "keywords": "Titan women watch, silver watch, casual watch, women's accessories, silver dial watch, metal bracelet watch, minimalist watch, round case watch, elegant women's watch, everyday timepiece, stylish silver watch, casual wristwatch, sleek design watch"
+    },
+    "status": "success"
+  }
+]

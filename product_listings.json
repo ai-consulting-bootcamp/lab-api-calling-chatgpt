@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": 15970,
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "image_path": "product_images/product_15970.jpg",
+    "prompt": "You are an expert e-commerce copywriter. Analyze the attached product image.\n\nKnown catalog information (use it, but do not invent facts not supported by the\nimage or metadata):\n- Product name: Turtle Check Men Navy Blue Shirt\n- Catalog details: Gender: Men, Subcategory: Topwear, Article type: Shirts, Color: Navy Blue, Season: Fall, Usage: Casual\n\nReturn only valid JSON with exactly these keys:\n{\n  \"title\": \"SEO-friendly product title, 60 characters maximum\",\n  \"description\": \"A persuasive 100-150 word description\",\n  \"features\": [\"5 to 7 concise, evidence-based features\"],\n  \"keywords\": \"10 to 15 comma-separated SEO keywords\"\n}\n\nDescribe visible colors, silhouette, pattern, fabric appearance, and design\ndetails. Do not claim measurements, materials, brand, performance, or features\nthat cannot be established from the image or supplied metadata.",
+    "status": "prepared"
+  },
+  {
+    "product_id": 39386,
+    "product_name": "Peter England Men Party Blue Jeans",
+    "image_path": "product_images/product_39386.jpg",
+    "prompt": "You are an expert e-commerce copywriter. Analyze the attached product image.\n\nKnown catalog information (use it, but do not invent facts not supported by the\nimage or metadata):\n- Product name: Peter England Men Party Blue Jeans\n- Catalog details: Gender: Men, Subcategory: Bottomwear, Article type: Jeans, Color: Blue, Season: Summer, Usage: Casual\n\nReturn only valid JSON with exactly these keys:\n{\n  \"title\": \"SEO-friendly product title, 60 characters maximum\",\n  \"description\": \"A persuasive 100-150 word description\",\n  \"features\": [\"5 to 7 concise, evidence-based features\"],\n  \"keywords\": \"10 to 15 comma-separated SEO keywords\"\n}\n\nDescribe visible colors, silhouette, pattern, fabric appearance, and design\ndetails. Do not claim measurements, materials, brand, performance, or features\nthat cannot be established from the image or supplied metadata.",
+    "status": "prepared"
+  },
+  {
+    "product_id": 59263,
+    "product_name": "Titan Women Silver Watch",
+    "image_path": "product_images/product_59263.jpg",
+    "prompt": "You are an expert e-commerce copywriter. Analyze the attached product image.\n\nKnown catalog information (use it, but do not invent facts not supported by the\nimage or metadata):\n- Product name: Titan Women Silver Watch\n- Catalog details: Gender: Women, Subcategory: Watches, Article type: Watches, Color: Silver, Season: Winter, Usage: Casual\n\nReturn only valid JSON with exactly these keys:\n{\n  \"title\": \"SEO-friendly product title, 60 characters maximum\",\n  \"description\": \"A persuasive 100-150 word description\",\n  \"features\": [\"5 to 7 concise, evidence-based features\"],\n  \"keywords\": \"10 to 15 comma-separated SEO keywords\"\n}\n\nDescribe visible colors, silhouette, pattern, fabric appearance, and design\ndetails. Do not claim measurements, materials, brand, performance, or features\nthat cannot be established from the image or supplied metadata.",
+    "status": "prepared"
+  }
+]
