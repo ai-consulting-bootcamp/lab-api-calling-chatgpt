@@ -1,0 +1,122 @@
+[
+  {
+    "product_index": 0,
+    "status": "success",
+    "listing": {
+      "title": "Turtle Check Men Navy Blue Shirt",
+      "description": "Stylish and versatile, this Turtle Check shirt features a classic check pattern in navy blue. Perfect for casual outings or a smart-casual look, this shirt offers comfort and style.",
+      "category": "Apparel",
+      "color": "Navy Blue",
+      "features": [
+        "Check pattern",
+        "Collared neckline",
+        "Button-down front",
+        "Short sleeves"
+      ],
+      "tags": [
+        "shirt",
+        "check pattern",
+        "navy blue",
+        "men's fashion",
+        "casual",
+        "topwear"
+      ]
+    }
+  },
+  {
+    "product_index": 1,
+    "status": "success",
+    "listing": {
+      "title": "Peter England Men's Party Jeans - Blue",
+      "description": "Upgrade your wardrobe with the Peter England Men's Party Jeans in a versatile blue. Perfect for both casual outings and special occasions, these jeans offer a comfortable fit and stylish appearance.",
+      "category": "Apparel",
+      "color": "Blue",
+      "features": [
+        "Comfortable fit",
+        "Stylish design",
+        "Suitable for parties and casual outings"
+      ],
+      "tags": [
+        "Jeans",
+        "Men's Fashion",
+        "Blue Jeans",
+        "Peter England",
+        "Party Wear",
+        "Casual Wear"
+      ]
+    }
+  },
+  {
+    "product_index": 2,
+    "status": "success",
+    "listing": {
+      "title": "Titan Women Silver Watch",
+      "description": "Elegant and timeless, the Titan Women Silver Watch features a sleek design with a minimalist silver-tone dial and bracelet. Perfect for any occasion.",
+      "category": "Accessories",
+      "color": "Silver",
+      "features": [
+        "Silver-tone bracelet",
+        "Minimalist dial",
+        "Quartz movement",
+        "Titan logo",
+        "Compact design"
+      ],
+      "tags": [
+        "Titan",
+        "Women",
+        "Silver Watch",
+        "Elegant",
+        "Minimalist",
+        "Timepiece",
+        "Quartz",
+        "Accessories"
+      ]
+    }
+  },
+  {
+    "product_index": 3,
+    "status": "success",
+    "listing": {
+      "title": "Manchester United Solid Black Track Pants",
+      "description": "Stay comfortable and stylish with these Manchester United solid black track pants, perfect for workouts or casual wear. Featuring a sleek design with the iconic club logo.",
+      "category": "Apparel - Bottomwear",
+      "color": "Black",
+      "features": [
+        "Solid black color",
+        "Manchester United club logo",
+        "Elastic waistband",
+        "Comfortable fit",
+        "Durable material"
+      ],
+      "tags": [
+        "Manchester United",
+        "track pants",
+        "black",
+        "sportswear",
+        "comfortable"
+      ]
+    }
+  },
+  {
+    "product_index": 4,
+    "status": "success",
+    "listing": {
+      "title": "Puma Men's Grey T-shirt",
+      "description": "Elevate your casual style with this Puma Men's Grey T-shirt. Perfectly crafted for comfort and versatility, this t-shirt features a classic fit and iconic logo detail, making it a stylish addition to any wardrobe.",
+      "category": "Apparel",
+      "color": "Grey",
+      "features": [
+        "Classic fit",
+        "Short sleeves",
+        "Puma logo detail on chest"
+      ],
+      "tags": [
+        "Puma",
+        "T-shirt",
+        "Men's apparel",
+        "Grey top",
+        "Casual wear"
+      ]
+    }
+  }
+]
