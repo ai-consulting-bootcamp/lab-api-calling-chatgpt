@@ -1,0 +1,89 @@
+[
+  {
+    "dataset_index": 0,
+    "product_id": 15970,
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "listing": {
+      "title": "Stylish Turtle Check Men Navy Blue Shirt for Fall",
+      "description": "Elevate your autumn wardrobe with the Turtle Check Men Navy Blue Shirt. Crafted in a stylish navy blue check pattern, this shirt combines comfort and sophistication, making it perfect for both casual outings and semi-formal occasions. The premium fabric ensures breathability and warmth during the fall season, while the tailored fit flatters any body type. Pair it effortlessly with jeans or chinos for a smart-casual look that stands out. Experience quality craftsmanship with this versatile addition to your topwear collection.",
+      "features": [
+        "Stylish navy blue check pattern",
+        "Breathable and warm fabric",
+        "Tailored fit for a flattering silhouette",
+        "Versatile for casual and semi-formal wear",
+        "Perfect for the fall season"
+      ],
+      "keywords": [
+        "Navy blue shirt",
+        "Men's apparel",
+        "Fall fashion",
+        "Casual wear",
+        "Stylish check shirt",
+        "Topwear for men",
+        "Comfortable shirt",
+        "Autumn wardrobe",
+        "Men's fashion",
+        "Tailored fit"
+      ]
+    },
+    "status": "success"
+  },
+  {
+    "dataset_index": 1,
+    "product_id": 39386,
+    "product_name": "Peter England Men Party Blue Jeans",
+    "listing": {
+      "title": "Peter England Men's Blue Party Jeans for Summer",
+      "description": "Step out in style with the Peter England Men Party Blue Jeans, designed for the modern man. These jeans offer a perfect blend of comfort and fashion, making them an ideal choice for summer outings or casual gatherings. The rich blue hue adds a touch of elegance to your wardrobe, while the durable fabric ensures long-lasting wear. Pair them easily with your favorite t-shirt or button-up for a polished yet relaxed look. Elevate your style quotient with these versatile jeans that are designed to turn heads.",
+      "features": [
+        "Stylish blue color perfect for summer",
+        "Comfortable fit for all-day wear",
+        "Durable fabric for long-lasting quality",
+        "Versatile design for casual and semi-formal occasions",
+        "Easy to pair with various outfits"
+      ],
+      "keywords": [
+        "Peter England jeans",
+        "men's blue jeans",
+        "summer apparel for men",
+        "casual jeans",
+        "party wear jeans",
+        "comfortable men's bottomwear",
+        "stylish jeans for men",
+        "Durable jeans",
+        "summer fashion",
+        "men's clothing"
+      ]
+    },
+    "status": "success"
+  },
+  {
+    "dataset_index": 2,
+    "product_id": 59263,
+    "product_name": "Titan Women Silver Watch",
+    "listing": {
+      "title": "Titan Women Silver Watch - Elegant Accessory for Winter",
+      "description": "Elevate your style with the Titan Women Silver Watch, an exquisite timepiece designed for the modern woman. This elegant watch features a sleek silver finish that complements any winter outfit, making it a versatile addition to your accessory collection. The minimalist design showcases a clean white dial and refined silver hands for effortless readability. Whether you're dressing up for a special occasion or seeking a chic everyday watch, this Titan piece promises to add a touch of sophistication to your look.",
+      "features": [
+        "Sleek and minimalist design",
+        "Durable silver metallic finish",
+        "Clean white dial for easy readability",
+        "Ideal for winter wear and special occasions",
+        "Comfortable fit with adjustable strap"
+      ],
+      "keywords": [
+        "women's silver watch",
+        "Titan watches",
+        "elegant accessories",
+        "winter fashion",
+        "minimalist design watch",
+        "stylish women's watches",
+        "luxury accessories for women",
+        "fashion watches",
+        "sophisticated timepieces",
+        "trendy winter accessories"
+      ]
+    },
+    "status": "success"
+  }
+]
